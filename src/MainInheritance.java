@@ -49,7 +49,7 @@ public class MainInheritance {
         System.out.println("------------------");
         System.out.println(albusDumbldore.print());
         albusDumbldore.goPublic();
-
+        //Intelligence is the ability to avoid doing work, but in a way that gets it done.
 
     }
 }
